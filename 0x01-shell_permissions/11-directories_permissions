@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod uyo+r,uyo+x ./
+chmod -R a+x ./
